@@ -6,8 +6,6 @@ html {
     text-align: center;
 }
 
-
-
 .header h1 {
     text-align: center;
     font-weight: lighter;
@@ -28,4 +26,10 @@ html {
 .guide p {
     font-size: 21px;
     color: gray;
+}
+
+.footer p {
+    text-align: right;
+    color: gray;
+    padding-right: 950px;
 }
