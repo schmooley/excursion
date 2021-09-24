@@ -14,17 +14,18 @@ html {
     font-size: 50px;
 }
 
-.download {
+.download, .coming-soon p {
     color: aquamarine;
     font-size: 16px;
     text-decoration: underline;
 }
 
-.guide h1 {
+.guide h1, .coming-soon h1 {
     font-weight: 300;
     font-size: 42px;
 }
 
 .guide p {
     font-size: 21px;
+    color: gray;
 }
